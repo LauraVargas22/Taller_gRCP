@@ -2,7 +2,7 @@
 
 ## Enlace del repositorio
 
-> Pendiente: publicar el proyecto y reemplazar este texto por la URL del repositorio.
+https://github.com/LauraVargas22/Taller_gRCP.git
 
 ## Introducción
 
